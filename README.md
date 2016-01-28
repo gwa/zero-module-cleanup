@@ -20,8 +20,15 @@ $ composer require gwa/zero-module-cleanup
 
 ## Usage
 
+Add it to the getModuleClasses function.
+
 ``` php
-echo "test";
+    protected function getModuleClasses()
+    {
+        return [
+            'Gwa\Wordpress\Zero\Module\CleanUpModule',
+        ];
+    }
 ```
 
 ## Change log
@@ -31,7 +38,7 @@ Please see [CHANGELOG](CHANGELOG.md) for more information what has changed recen
 ## Testing
 
 ``` bash
-$ composer test
+$ phpunit
 ```
 
 ## Contributing

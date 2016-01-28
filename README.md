@@ -10,12 +10,6 @@
 [![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/gwa/zero-module-cleanup/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/gwa/zero-module-cleanup/code-structure)
 [![Quality Score](https://img.shields.io/scrutinizer/g/gwa/zero-module-cleanup/master.svg?style=flat-square)](https://scrutinizer-ci.com/g/gwa/zero-module-cleanup)
 
-## Develop
-
-[![Build Status](https://img.shields.io/travis/gwa/zero-module-cleanup/develop.svg?style=flat-square)](https://travis-ci.org/gwa/zero-module-cleanup)
-[![Coverage Status](https://img.shields.io/scrutinizer/coverage/g/gwa/zero-module-cleanup/develop.svg?style=flat-square)](https://scrutinizer-ci.com/g/gwa/zero-module-cleanup/code-structure)
-[![Quality Score](https://img.shields.io/scrutinizer/g/gwa/zero-module-cleanup/develop.svg?style=flat-square)](https://scrutinizer-ci.com/g/gwa/zero-module-cleanup)
-
 ## Install
 
 Via Composer
